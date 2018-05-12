@@ -1,4 +1,8 @@
 _repo: Talks-on-Writing-English-First-Series_47494
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47494-h/images/cover.jpg
 creator:
   author:
     agent_name: Bates, Arlo
@@ -15,6 +19,8 @@ description: v. 1. The art of writing ; Methods of study ; Principles of structu
   gerunds ; Particles ; Parallel construction ; The topic sentence ; End and beginning
   ; Paragraphs ; The points of view ; Figures ; Exposition ; Description ; Narration
   ; Dialogue ; Punctuation ; Letter-writing ; Euphony ; The literary life.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47494#Talks-on-Writing-English-First-Series
 gutenberg_issued: '2014-11-29'
 gutenberg_type: Text
 identifiers:
